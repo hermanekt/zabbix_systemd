@@ -1,4 +1,4 @@
-# Systemd template for Zabbix Agent 2
+# Systemd template for Zabbix Agent 2 ONLY 
 ### Features:
 
 - Automatic discovery systemd units
