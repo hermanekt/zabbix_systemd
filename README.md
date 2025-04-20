@@ -1,4 +1,9 @@
 # Systemd template for Zabbix Agent 2 ONLY 
+
+> **⚠️ This repository has been ARCHIVED.**  
+> It is no longer maintained because Zabbix now provides an official **“Systemd by Zabbix agent 2”** template.  
+> 👉 Use the official template instead: <https://www.zabbix.com/integrations/systemd#systemd>
+
 ### Features:
 
 - Automatic discovery systemd units
